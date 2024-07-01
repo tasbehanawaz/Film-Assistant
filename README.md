@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Film-Assistant
-=======
+
 # Film-Assistant
 
 - Developed a robust film assistant application leveraging AI for generating stories on the prompts given by the users, automating the storytelling process
@@ -16,4 +14,3 @@
 
 ## Media
 ![Coloured view]()
->>>>>>> 82773f8 (Initial commit)
